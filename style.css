@@ -1,8 +1,14 @@
 .navbar {
     background-color: aqua;
-    height: 100px;
     float: left;
-    width: 60%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.youtube-logo > a > img {
+    height: 24px;
+    width: 120px;
 }
 
 .video {
