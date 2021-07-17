@@ -1,0 +1,27 @@
+.navbar {
+    background-color: aqua;
+    height: 100px;
+    float: left;
+    width: 60%;
+}
+
+.video {
+    background-color: green;
+    height: 100px;
+    float: left;
+    width: 60%;
+}
+
+.audience-message {
+    background-color: blue; 
+    height: 100px;
+    float: left;
+    width: 60%;
+}
+
+.AdsAndVideo {
+    background-color: brown;
+    height: 100px;
+    float: right;
+    width: 40%;
+}
